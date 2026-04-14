@@ -7,4 +7,5 @@ I built this project to showcase how **minimalism** can be used in fashion websi
 ## My Skills Used:
 - Semantic HTML5
 - Responsive CSS
+- Bootstrap
 - Professional Git Workflow
